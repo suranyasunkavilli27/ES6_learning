@@ -4,7 +4,7 @@ var counter = 3;
 var counter = 5;
 console.log(counter);
 //ES6 newly it has let and const daatypes
-const cantbe reinitialised
+//const cantbe reinitialised
 const array = ['suranya','vijaya'];
 array = ['suranya'] // error, it wont allow
 let a = 10;
@@ -13,7 +13,7 @@ for(var i = 1;i < 5; i++){
     console.log(i);
 }
 console.log(i); // it works fro var but not for let  var has global scope
-concatination
+//concatination
 var name = 'suranya';
 console.log("my name is " + name); //js
 let name = "suranya";
